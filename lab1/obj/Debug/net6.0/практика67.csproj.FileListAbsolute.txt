@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\bin\Debug\net6.0\практика67.exe
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\bin\Debug\net6.0\практика67.deps.json
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\bin\Debug\net6.0\практика67.runtimeconfig.json
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\bin\Debug\net6.0\практика67.dll
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\bin\Debug\net6.0\практика67.pdb
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\практика67.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\практика67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\практика67.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\практика67.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\практика67.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\практика67.dll
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\refint\практика67.dll
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\практика67.pdb
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\практика67.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\#1\практика67\практика67\obj\Debug\net6.0\ref\практика67.dll
